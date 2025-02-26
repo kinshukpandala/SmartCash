@@ -1,0 +1,8 @@
+Date: 18-12-2024
+Serial No | Category | Type | Amount
+--------------------------------------
+1 | Salary | Income | ₹1000.0
+2 | Food | Expense | ₹500.0
+
+Closing Balance: ₹500.0
+
