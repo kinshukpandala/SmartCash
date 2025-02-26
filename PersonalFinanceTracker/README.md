@@ -1,10 +1,6 @@
 
 # Personal Finance Tracker
 
-## Author
-- **Name**: Raadhesh Bajoria
-- **Reg No**: 23BAC10023
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
